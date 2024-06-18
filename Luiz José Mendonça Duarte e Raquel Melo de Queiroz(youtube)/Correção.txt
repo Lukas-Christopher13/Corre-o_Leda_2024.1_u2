@@ -16,13 +16,15 @@ b) Execução do projeto sem demais problemas:
 
 a) Correção das transformações
 
+  [Sem Problemas]
    1. Crie um arquivo chamado “videos.csv” juntando todos os arquivos que possuem a extensão “.csv”. O arquivo “videos.csv” deve ter uma coluna “countries”, 
       referente ao país em que o vídeo foi publicado.  ( no caso, EUA, GB, DE, CA, FR, RU, MX, KR e JP)
 
-    Arquivos: GBvideos.csv, CAvideos.csv, MXvideos.csv, INvideos.csv, DEvideos.csv, RUvideos.csv, JPvideos.csv, FRvideos.csv, USvideos.csv e KRvideos.csv.
+      * Gerar um arquivo chamado “videos.csv”.
 
-        * Gerar um arquivo chamado “videos.csv”.
-
+        - O arquivo “videos.csv” contendo todos os videos em alta foi gerado sem problemas
+      
+  [Sem Problemas]
    2. Considerando o arquivo gerado na primeira transformação (videos.csv). Crie um novo campo para as datas chamado “trending_full_date” no formato DD/MM/AAAA 
       de acordo com a coluna “trending_date”, as datas da coluna “trending_date” estão no formato AA.DD.MM, você deve convertê-las para o formato DD/MM/AAAA.
 
@@ -30,10 +32,17 @@ a) Correção das transformações
       
         * Gere um arquivo chamado “videos_T1.csv”
 
+       - O arquivo "videos_T1.csv" foi gerado com as datas alteradas. 
+
+  [Com Problemas]
    3. Utilize os arquivos “.json” para filtrar os vídeos do arquivo “videos_T1.csv” cuja o campo “title” dos objetos json sejam “Trailers”, “Shows" e "Shorts".
 
         * Gerar um arquivo chamado “videos_TSS.csv”
 
+      - O arquivo gerado pela equipe não filtrou corretamnte os videos, os alunos deveria utilizar os arquivos json para filtrar os
+        os videos classificados como “Trailers”, “Shows" e "Shorts". No arquivo gerado pela equipe é possivel ver que o campo category_id
+        apresentam outros valores que não são (42, 43 e 44) que são os ids das categorias a serem filtradas.
+ 
    4. Filtre todos os vídeos do arquivo “videos_T1.csv” em que os números de “dislikes” são maiores que os números de “likes”.
 
         * Gere um arquivo chamado “videos_T2.csv
