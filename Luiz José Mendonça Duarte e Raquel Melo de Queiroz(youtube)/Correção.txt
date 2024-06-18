@@ -1,0 +1,70 @@
+Grupo : Luiz José Mendonça Duarte e Raquel Melo de Queiroz
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Com problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    - Instrucoes claras e muito detalhadas 
+
+  [Com Problemas]
+b) Execução do projeto sem demais problemas: 
+
+    - Rodou sem problemas
+
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+   1. Crie um arquivo chamado “videos.csv” juntando todos os arquivos que possuem a extensão “.csv”. O arquivo “videos.csv” deve ter uma coluna “countries”, 
+      referente ao país em que o vídeo foi publicado.  ( no caso, EUA, GB, DE, CA, FR, RU, MX, KR e JP)
+
+    Arquivos: GBvideos.csv, CAvideos.csv, MXvideos.csv, INvideos.csv, DEvideos.csv, RUvideos.csv, JPvideos.csv, FRvideos.csv, USvideos.csv e KRvideos.csv.
+
+        * Gerar um arquivo chamado “videos.csv”.
+
+   2. Considerando o arquivo gerado na primeira transformação (videos.csv). Crie um novo campo para as datas chamado “trending_full_date” no formato DD/MM/AAAA 
+      de acordo com a coluna “trending_date”, as datas da coluna “trending_date” estão no formato AA.DD.MM, você deve convertê-las para o formato DD/MM/AAAA.
+
+      Ex: 17.14.11 -> 14/11/2017.
+      
+        * Gere um arquivo chamado “videos_T1.csv”
+
+   3. Utilize os arquivos “.json” para filtrar os vídeos do arquivo “videos_T1.csv” cuja o campo “title” dos objetos json sejam “Trailers”, “Shows" e "Shorts".
+
+        * Gerar um arquivo chamado “videos_TSS.csv”
+
+   4. Filtre todos os vídeos do arquivo “videos_T1.csv” em que os números de “dislikes” são maiores que os números de “likes”.
+
+        * Gere um arquivo chamado “videos_T2.csv
+    
+b) Correção das ordenações
+
+   
+3- Aspectos de qualidade do código (20%)
+
+  [Sem Problemas]
+a) Modularização
+  
+   - O projeto e bem modularizado, ha separacao entre algoritimos de ordenacao, codigo de transformacoes e as estruturas de dados implementadas pelos alunos. 
+
+  [Com problemas]
+b) Algoritmos de ordenação
+
+
+4- Utilização das estruturas de Dados
+
+   **Estruturas de dados utilizadas pelo grup:
+   
+     Utilizou estruturas de dados próprias e não as do java, o'que é bom.
+   
+     - Listas Encadeadas
+     - HashMap 
+     - Fila
+   
+   Obs: Novamente nao pude testar a utilizacao delas
+   
+
+   
+
+
