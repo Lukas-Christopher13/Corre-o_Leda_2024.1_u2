@@ -1,0 +1,68 @@
+Grupo : Lucas Anacleto e João Gabriel
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Sem problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    - O projeto possui regras claras para a sua execução.
+
+  [Sem problemas]
+b) Execução do projeto sem demais problemas: 
+    
+    - Não tive problemas aqui.
+
+
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+    [Sem problemas]
+   1- Transformar data para o formato a seguir DD/MM/AAAA Gerar um arquivo chamado passwords_formated_data.csv
+      
+      - Todas as datas foram transformadas, o grupo tambem colocou os horarios jutos as datas, máis creio que não tenha problema.
+        (Ex: 14/04/2021 02:12:23)
+
+    [Sem problemas]
+   2- Filtrar senha pela categoria Boa e Muito Boa.
+      
+      - As senha foram filtradas sem problemas.
+
+  [Sem problemas]
+b) Correção das ordenações
+
+   - Todos os algoritmos de ordenação foram implementados e funcionam sem problemas.
+
+     obs: os arquivos são ordenados e os resultados das ordenações são salvos
+
+3- Aspectos de qualidade do código (20%)
+
+  [Sem Problemas]
+a) Modularização
+  
+  - O projeto está bem modularizado e organizado.
+      
+  [Sem problemas]
+b) Algoritmos de ordenação
+    
+  - O algoritmos de ordenação não apresentaram problemas, mais o grupo poderia ter utilizado uma estratégia com polimorfismo para
+    evitar ter de fazer um método para cada tipo de dado a ser ordenado. (Esse probleminha da duplicação do codigo dos algoritimos
+    de ordenação continuou nessa etapa. O grupo poderia ter melhorado essa parte)
+
+4- Utilização das estruturas de Dados
+
+   **Estruturas de dados utilizadas pelo grup:
+   
+   Obs: Utilizou estruturas de dados próprias de Árvore Binário de Busca e Fila, e utilizou a Tabela Hash do java. Algo estranho que
+        notei foi que a fila contem apenas o methodo de inserção. 
+   
+     - Árvore Binário de Busca
+     - Tabela Hash
+     - Fila
+   
+   Obs: O grupo poderia ter utilizado mais as estruturas de dados dinamicas, eles poderiam ter subistituido os arrays utilizados
+        nos algoritimos de ordenação por listas dinamicas por exemplo. O uso das estruturas de dados no projeto ficou reservadas
+        mais para partes especificas do codigo.
+   
+
+

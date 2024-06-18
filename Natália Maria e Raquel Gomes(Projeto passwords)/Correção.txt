@@ -1,0 +1,62 @@
+Grupo : Natália Maria e Raquel Gomes
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Sem problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    - O projeto possui regras claras para a sua execução.
+
+  [Sem problemas]
+b) Execução do projeto sem demais problemas: 
+    
+    - Não tive problemas aqui.
+
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+ [Sem problemas]
+   1- Transformar data para o formato a seguir DD/MM/AAAA Gerar um arquivo chamado passwords formated_data.csv
+      
+      - Todas as datas foram transformadas.
+   
+    [Sem problemas]
+   2- Filtrar senha pela categoria Boa e Muito Boa.
+      
+      - As senhas foram alteradas sem problemas.
+  
+
+  [Sem problemas]
+b) Correção das ordenações
+
+   - Todos os algoritmos de ordenação foram implementados e funcionam sem problemas.
+
+     obs: Todas as ordenações são realizadas em memória, elas não são salvas nos arquivos.    
+
+3- Aspectos de qualidade do código (20%)
+
+  [Sem grandes problemas]
+a) Modularização
+  
+   - O projeto possui pouca modularização, os algoritmos de ordenação estão todos em 3 arquivos .java separandos apenas pelos tipo
+     de dado que acada algoritimo utiliza (data, tamanho e mês). Há tambêm arquivo separado com os algoritimos das estruturas de 
+     dados utilizados pela equipe.
+      
+  [Sem problemas]
+b) Algoritmos de ordenação
+   
+   - Todos os algoritmos de ordenação foram implementados sem grandes problemas.
+
+4- Utilização das estruturas de Dados
+
+   **Estruturas de dados utilizadas pelo grup:
+   
+   Obs: O grupo utilizou estruturas de dados próprias e não as do java, o que é bom.
+   
+     - Listas Encadeada 
+     - Fila
+     - Pilhas
+   
+
+
