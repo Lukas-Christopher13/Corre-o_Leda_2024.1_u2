@@ -1,0 +1,53 @@
+Grupo : Rodrigo Lira de Farias e Antonio Neri
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Com problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    - O projeto possui regreas claras de de execucao apesar das regas serem bastantes simples e curtas
+
+  [Com Problemas]
+b) Execução do projeto sem demais problemas: 
+
+    - Nao foi possivel executar o projeto, ao ler o codido projeto percebi que deveria existir uma estrutura de pacontes com os
+      pacotes "cases", "interfaces" e "algoritimos", porem esses pacontes nao existem, sendo que os arquivos .java referenciam 
+      esses pacotes, e a inesistencia deles impedem a execucao de projeto. Todos os arquivos .java estao em um mesmo arquivo 
+      sem separacao.  
+
+  [Não corrige por conta dos problemas acima]
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+    
+b) Correção das ordenações
+
+   
+3- Aspectos de qualidade do código (20%)
+
+  [Sem modularização]
+a) Modularização
+  
+ - O Projeto não possui modularização! Todos os arquivos '.java' estão jogados na pasta do projeto. Não existe pastas separando os
+   diferentes tipos de arquivos .java!
+      
+  [Com problemas]
+b) Algoritmos de ordenação
+   
+   - Todos os algoritimos foram implementados, porem nao pude testalos
+   
+4- Utilização das estruturas de Dados
+
+   **Estruturas de dados utilizadas pelo grup:
+   
+     Utilizou estruturas de dados próprias e não as do java, o'que é bom.
+   
+     - Listas Encadeadas
+     - HashMap 
+     - Fila
+   
+   Obs: Novamente nao pude testar a utilizacao delas
+
+
+
