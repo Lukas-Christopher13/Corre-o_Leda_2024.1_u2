@@ -1,0 +1,70 @@
+Grupo : Mateus Victor e 116805277538994733645
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Sem Problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+   
+    - As regras para execução forma claras.
+
+  [Sem grandes problemas]
+b) Execução do projeto sem demais problemas: 
+
+    - A equipe criou uma classe para gerar os diretórios onde ficam os arquivos .csv, porem, essa classe gerar
+      os arquivos no diretório errado, e eu tive que mover essas pastas manualmente para fazer o projeto funcionar
+    
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+   [Sem Problemas]
+    1- Converta todas as datas de lançamento (campo Release date) para o formato DD/MM/AAAA.
+
+     - As datas forma transformadas corretamente.
+ 
+   [Sem Problemas]
+    2- Use o arquivo gerado na primeira transformação (games_formated_release_data.csv) para filtrar todos os games compatíveis com o sistema operacional linux. (campo Linux)
+
+     - Sem problemas aqui
+
+   [Com Problemas]
+    3- Use o arquivo gerado na primeira transformação (games_formated_release_data.csv) para filtrar todos os games que tem suporte a língua portuguesa. (campo: Supported languages)
+
+     - Tivemos uma discrepância na quantidade de jogos em "portugues" contabilizada pelo aluno. 
+         *jogos em portugues: 468780
+         *jogos em portugues do aluno: 437970
+    
+     OBS: Esse problema se manteve
+
+  [Sem Problemas]
+b) Correção das ordenações
+ 
+   - Todos os arquivos são ordenados em memória, e os arquivos já ordenados são salvos.
+   
+3- Aspectos de qualidade do código (20%)
+
+  [Sem Problemas]
+a) Modularização
+  
+   - O projeto possui modularização, há uma separação entre algoritimos de ordenação e o codigo para a filtragem dos dados.
+      
+  [Sem problemas]
+b) Algoritmos de ordenação
+   
+   - Sem problemas aqui
+
+ [Com Problemas]
+4- Utilização das estruturas de Dados
+
+   **Estruturas de dados utilizadas pelo grup:
+
+       Utilizou estruturas de dados do java
+   
+     - Lista Dinamica (Array List)
+     
+   Obs: Aparentemente o grupo não entendeu o objetivo dessa segunda etapa do projeto e não utilizou as estruturas de dados sugeridas.
+        Ao invez disso o grupo utilizou novos algoritimos de ordenação (shel sort, buckte sort e Heap Sort). Acredito que eles se
+        confundiram quanto ao objetivo dessa segunda parte do trabalho. Eles utilizaram apenas o ArrayList.
+        
+   
+
