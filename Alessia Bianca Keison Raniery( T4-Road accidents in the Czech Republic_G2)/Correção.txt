@@ -1,0 +1,43 @@
+Grupo : Alessia Bianca Keison Raniery
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Sem Problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+   
+   - Apesar das regras claras não obtive sucesso ao segui-las
+
+  [Com Problemas]
+b) Execução do projeto sem demais problemas: 
+   
+   - Dessa vez o grupo utilizou um script "python" junto, ao pandas para fazer alguma transformação a qual eu não entendi o 
+     proposito dela. Ainda nesse arquivo python tentei executar por diverças vezes o codigo mais não consegui, por conta de 
+     erros de caminhos de diretório, mesmo com os arquivos nos respectivos diretorios o programa não identificava os arquivos.   
+
+  [Não corrige por conta dos problemas acima]
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+    
+b) Correção das ordenações
+
+   
+3- Aspectos de qualidade do código (20%)
+
+  [Sem problemas]
+a) Modularização
+  
+   - O Projeto possui uma boa modularização 
+
+  [Com problemas]
+b) Algoritmos de ordenação
+   
+   - Não consegui rodar o projeto.
+
+[Com Problemas]
+4- Utilização das estruturas de Dados
+
+   - Não encontrei uso de estruturas de dados no projeto
+
+
