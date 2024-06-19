@@ -1,0 +1,38 @@
+Grupo : Marcos Emanuel Souza Braga de Farias e Maria Clara Torres Franca de Aguiar
+
+OBS: Novamete a equipe entregou um projeto que não tem absolutamente nada a ver com oque foi solicitado, o que eles 
+     entregaram foi um projeto quer rodam 4 algoritimos de ordenação com dados gerados aleatóriamentes.
+
+1- Aspectos relacionados com instalação (10%)
+
+  [Com problemas]
+a) Regras claras de como executar o projeto (qualidade das instruções): 
+
+    
+  [Com Problemas]
+b) Execução do projeto sem demais problemas: 
+
+  
+  [Não corrige por conta dos problemas acima]
+2- Aspectos relacionados com a corretude do projeto (70%)
+
+a) Correção das transformações
+
+    
+b) Correção das ordenações
+
+   
+3- Aspectos de qualidade do código (20%)
+
+  [Sem modularização]
+a) Modularização
+  
+
+  [Com problemas]
+b) Algoritmos de ordenação
+   
+
+   
+   
+
+
