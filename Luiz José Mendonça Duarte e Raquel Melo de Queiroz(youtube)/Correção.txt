@@ -43,11 +43,17 @@ a) Correção das transformações
         os videos classificados como “Trailers”, “Shows" e "Shorts". No arquivo gerado pela equipe é possivel ver que o campo category_id
         apresentam outros valores que não são (42, 43 e 44) que são os ids das categorias a serem filtradas.
  
+  [Sem Problemas]
    4. Filtre todos os vídeos do arquivo “videos_T1.csv” em que os números de “dislikes” são maiores que os números de “likes”.
 
         * Gere um arquivo chamado “videos_T2.csv
-    
+
+      - Os videos que tiveram mais dislikes do que likes foram filtrados corretamente.
+   
+  [Sem Problemas]
 b) Correção das ordenações
+
+   - Todas as ordenações ocorreram sem problemas.
 
    
 3- Aspectos de qualidade do código (20%)
@@ -60,18 +66,21 @@ a) Modularização
   [Com problemas]
 b) Algoritmos de ordenação
 
-
+ [Sem Grandes Problemas]
 4- Utilização das estruturas de Dados
 
    **Estruturas de dados utilizadas pelo grup:
    
      Utilizou estruturas de dados próprias e não as do java, o'que é bom.
    
-     - Listas Encadeadas
-     - HashMap 
-     - Fila
+     - Listas Duplamente Encadeadas
+     - Tabela Hash 
+     - Arvore Binária 
    
-   Obs: Novamente nao pude testar a utilizacao delas
+   Obs: Pelo oque eu entendi a equipe inplementou um algoritimo de ordenação do mesmo tipo para cada estrutura de dados,
+        existe uma verção do insertion sorte para arvores, tabela hash e listas duplamente encadeadas. (pelomenos foi isso
+        que eu entendi ao observar o codigo)
+   
    
 
    
