@@ -11,8 +11,8 @@ a) Regras claras de como executar o projeto (qualidade das instruções):
 b) Execução do projeto sem demais problemas: 
    
    - Dessa vez o grupo utilizou um script "python" junto, ao pandas para fazer alguma transformação a qual eu não entendi o 
-     proposito dela. Ainda nesse arquivo python tentei executar por diverças vezes o codigo mais não consegui, por conta de 
-     erros de caminhos de diretório, mesmo com os arquivos nos respectivos diretorios o programa não identificava os arquivos.   
+     propósito dela. Ainda nesse arquivo python tentei executar por diversas vezes o código mais não consegui, por conta de 
+     erros de caminhos de diretório, mesmo com os arquivos nos respectivos diretórios o programa não identificava os arquivos.   
 
   [Não corrige por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)

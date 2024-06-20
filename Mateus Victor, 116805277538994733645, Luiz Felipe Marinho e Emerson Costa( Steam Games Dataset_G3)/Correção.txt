@@ -5,12 +5,12 @@ Grupo : Mateus Victor, 116805277538994733645, Luiz Felipe Marinho e Emerson Cost
   [Sem Problemas]
 a) Regras claras de como executar o projeto (qualidade das instruções): 
    
-    - As regras para execução forma claras.
+    - As regras para execução foram claras.
 
   [Sem grandes problemas]
 b) Execução do projeto sem demais problemas: 
 
-    - A equipe criou uma classe para gerar os diretórios onde ficam os arquivos .csv, porem, essa classe gerar
+    - A equipe criou uma classe para gerar os diretórios onde ficam os arquivos .csv, porém, essa classe gerar
       os arquivos no diretório errado, e eu tive que mover essas pastas manualmente para fazer o projeto funcionar
     
 2- Aspectos relacionados com a corretude do projeto (70%)
@@ -20,7 +20,7 @@ a) Correção das transformações
    [Sem Problemas]
     1- Converta todas as datas de lançamento (campo Release date) para o formato DD/MM/AAAA.
 
-     - As datas forma transformadas corretamente.
+     - As datas foram transformadas corretamente.
  
    [Sem Problemas]
     2- Use o arquivo gerado na primeira transformação (games_formated_release_data.csv) para filtrar todos os games compatíveis com o sistema operacional linux. (campo Linux)
@@ -46,7 +46,7 @@ b) Correção das ordenações
   [Sem Problemas]
 a) Modularização
   
-   - O projeto possui modularização, há uma separação entre algoritimos de ordenação e o codigo para a filtragem dos dados.
+   - O projeto possui modularização, há uma separação entre algoritmos de ordenação e o código para a filtragem dos dados.
       
   [Sem problemas]
 b) Algoritmos de ordenação
@@ -60,11 +60,10 @@ b) Algoritmos de ordenação
 
        Utilizou estruturas de dados do java
    
-     - Lista Dinamica (Array List)
+     - Lista Dinâmica (Array List)
      
    Obs: Aparentemente o grupo não entendeu o objetivo dessa segunda etapa do projeto e não utilizou as estruturas de dados sugeridas.
-        Ao invez disso o grupo utilizou novos algoritimos de ordenação (shel sort, buckte sort e Heap Sort). Acredito que eles se
+        Ao invés disso, o grupo utilizou novos algoritmos de ordenação (shell sort, bucket sort e Heapsort). Acredito que eles se
         confundiram quanto ao objetivo dessa segunda parte do trabalho. Eles utilizaram apenas o ArrayList.
-        
-   
+
 

@@ -1,7 +1,7 @@
 Grupo : Marcos Emanuel Souza Braga de Farias e Maria Clara Torres Franca de Aguiar
 
-OBS: Novamete a equipe entregou um projeto que não tem absolutamente nada a ver com oque foi solicitado, o que eles 
-     entregaram foi um projeto quer rodam 4 algoritimos de ordenação com dados gerados aleatóriamentes.
+OBS: Novamente a equipe entregou um projeto que não tem absolutamente nada a ver com o'que foi solicitado, o que eles 
+     entregaram foi um projeto que rodam 4 algoritmos de ordenação com dados gerados aleatoriamente.
 
 1- Aspectos relacionados com instalação (10%)
 
@@ -30,6 +30,9 @@ a) Modularização
 
   [Com problemas]
 b) Algoritmos de ordenação
+   
+
+
    
 
    

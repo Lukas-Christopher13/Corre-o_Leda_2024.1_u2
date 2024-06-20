@@ -5,7 +5,7 @@ Grupo : Luiz José Mendonça Duarte e Raquel Melo de Queiroz
   [Com problemas]
 a) Regras claras de como executar o projeto (qualidade das instruções): 
 
-    - Instrucoes claras e muito detalhadas 
+    - Instruções claras e muito detalhadas 
 
   [Com Problemas]
 b) Execução do projeto sem demais problemas: 
@@ -22,11 +22,11 @@ a) Correção das transformações
 
       * Gerar um arquivo chamado “videos.csv”.
 
-        - O arquivo “videos.csv” contendo todos os videos em alta foi gerado sem problemas
+        - O arquivo “videos.csv” contendo todos os vídeos em alta foi gerado sem problemas
       
   [Sem Problemas]
    2. Considerando o arquivo gerado na primeira transformação (videos.csv). Crie um novo campo para as datas chamado “trending_full_date” no formato DD/MM/AAAA 
-      de acordo com a coluna “trending_date”, as datas da coluna “trending_date” estão no formato AA.DD.MM, você deve convertê-las para o formato DD/MM/AAAA.
+      De acordo com a coluna “trending_date”, as datas da coluna “trending_date” estão no formato AA.DD.MM, você deve convertê-las para o formato DD/MM/AAAA.
 
       Ex: 17.14.11 -> 14/11/2017.
       
@@ -39,16 +39,16 @@ a) Correção das transformações
 
         * Gerar um arquivo chamado “videos_TSS.csv”
 
-      - O arquivo gerado pela equipe não filtrou corretamnte os videos, os alunos deveria utilizar os arquivos json para filtrar os
-        os videos classificados como “Trailers”, “Shows" e "Shorts". No arquivo gerado pela equipe é possivel ver que o campo category_id
-        apresentam outros valores que não são (42, 43 e 44) que são os ids das categorias a serem filtradas.
+      - O arquivo gerado pela equipe não filtrou corretamente os vídeos, os alunos deveriam utilizar os arquivos json para filtrar os
+        Os vídeos classificados como “Trailers”, “Shows" e "Shorts". No arquivo gerado pela equipe é possível ver que o campo category_id
+        Existem outros valores que não são (42, 43 e 44) que são os ids das categorias a serem filtradas.
  
   [Sem Problemas]
    4. Filtre todos os vídeos do arquivo “videos_T1.csv” em que os números de “dislikes” são maiores que os números de “likes”.
 
         * Gere um arquivo chamado “videos_T2.csv
 
-      - Os videos que tiveram mais dislikes do que likes foram filtrados corretamente.
+      - Os vídeos que tiveram mais dislikes do que likes foram filtrados corretamente.
    
   [Sem Problemas]
 b) Correção das ordenações
@@ -61,7 +61,7 @@ b) Correção das ordenações
   [Sem Problemas]
 a) Modularização
   
-   - O projeto e bem modularizado, ha separacao entre algoritimos de ordenacao, codigo de transformacoes e as estruturas de dados implementadas pelos alunos. 
+   - O projeto é bem modularizado, há separação entre algoritmos de ordenação, código de transformações e as estruturas de dados implementadas pelos alunos. 
 
   [Com problemas]
 b) Algoritmos de ordenação
@@ -75,11 +75,12 @@ b) Algoritmos de ordenação
    
      - Listas Duplamente Encadeadas
      - Tabela Hash 
-     - Arvore Binária 
+     - Árvore Binária 
    
-   Obs: Pelo oque eu entendi a equipe inplementou um algoritimo de ordenação do mesmo tipo para cada estrutura de dados,
-        existe uma verção do insertion sorte para arvores, tabela hash e listas duplamente encadeadas. (pelomenos foi isso
-        que eu entendi ao observar o codigo)
+   Obs: Pelo oque eu entendi a equipe implementou um algoritmo de ordenação do mesmo tipo para cada estrutura de dados,
+        Existe uma versão do insertion sort para árvores, tabela hash e listas duplamente encadeadas. (pelo menos foi isso
+        que eu entendi ao observar o código)
+
    
    
 

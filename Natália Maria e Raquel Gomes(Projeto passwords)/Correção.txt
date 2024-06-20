@@ -39,8 +39,8 @@ b) Correção das ordenações
   [Sem grandes problemas]
 a) Modularização
   
-   - O projeto possui pouca modularização, os algoritmos de ordenação estão todos em 3 arquivos .java separandos apenas pelos tipo
-     de dado que acada algoritimo utiliza (data, tamanho e mês). Há tambêm arquivo separado com os algoritimos das estruturas de 
+   - O projeto possui pouca modularização, os algoritmos de ordenação estão todos em 3 arquivos .java separados apenas pelos tipo
+     de dados que cada algoritmo utiliza (data, tamanho e mês). Há também arquivo separado com os algoritmos das estruturas de 
      dados utilizados pela equipe.
       
   [Sem problemas]
@@ -58,5 +58,6 @@ b) Algoritmos de ordenação
      - Fila
      - Pilhas
    
+
 
 

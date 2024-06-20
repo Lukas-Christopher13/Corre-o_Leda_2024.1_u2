@@ -5,15 +5,15 @@ Grupo : Rodrigo Lira de Farias e Antonio Neri
   [Com problemas]
 a) Regras claras de como executar o projeto (qualidade das instruções): 
 
-    - O projeto possui regreas claras de de execucao apesar das regas serem bastantes simples e curtas
+    - O projeto possui regras claras de de execução apesar das regras serem bastantes simples e curtas
 
   [Com Problemas]
 b) Execução do projeto sem demais problemas: 
 
-    - Nao foi possivel executar o projeto, ao ler o codido projeto percebi que deveria existir uma estrutura de pacontes com os
-      pacotes "cases", "interfaces" e "algoritimos", porem esses pacontes nao existem, sendo que os arquivos .java referenciam 
-      esses pacotes, e a inesistencia deles impedem a execucao de projeto. Todos os arquivos .java estao em um mesmo arquivo 
-      sem separacao.  
+    - Não foi possível executar o projeto, ao ler o código projeto percebi que deveria existir uma estrutura de pacotes com os
+      pacotes "cases", "interfaces" e "algoritmos", porém esses pacotes não existem, sendo que os arquivos .java referenciam 
+      Esses pacotes, e a inexistência deles impedem a execução do projeto. Todos os arquivos .java estão em um mesmo arquivo 
+      sem separação.  
 
   [Não corrige por conta dos problemas acima]
 2- Aspectos relacionados com a corretude do projeto (70%)
@@ -35,7 +35,7 @@ a) Modularização
   [Com problemas]
 b) Algoritmos de ordenação
    
-   - Todos os algoritimos foram implementados, porem nao pude testalos
+   - Todos os algoritmos foram implementados, porém não pude testá los
    
 4- Utilização das estruturas de Dados
 
@@ -47,7 +47,8 @@ b) Algoritmos de ordenação
      - HashMap 
      - Fila
    
-   Obs: Novamente nao pude testar a utilizacao delas
+   Obs: Novamente não pude testar a utilização delas
+
 
 
 

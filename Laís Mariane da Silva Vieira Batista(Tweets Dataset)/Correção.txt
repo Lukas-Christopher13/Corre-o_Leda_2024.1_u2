@@ -5,7 +5,7 @@ Laís Mariane da Silva Vieira Batista
   [Com Problemas]
 a) Regras claras de como executar o projeto (qualidade das instruções): 
    
-   - O projeto não possui regras para execução, apesar do projeto ter apenas um unico arquivo.
+   - O projeto não possui regras para execução, apesar do projeto ter apenas um único arquivo.
 
   [Com Alguns Problemas]
 b) Execução do projeto sem demais problemas: 
@@ -24,19 +24,19 @@ a) Correção das transformações
        - Transformações nas datas realizadas sem problemas
 
    [Sem Problemas]
-    2- A partir da primeira transformação (tweets_formated_data.csv) crie duas novas colunas, “mentioned_person” e 
+    2- A partir da primeira transformação (tweets_formated_data.csv) crie duas novas colunas, “mentioned person” e 
        “mentioned_person_count”. Para a coluna “mentioned_person” você deve filtrar menções a outros usuários no campo Text
-       dos tweets e adicionar o nome desse usuários a coluna “mentioned_person”. Para a coluna “mentioned_person_count”, 
-       adicione o número de usuários mencionados (é possível identificar tweets que mencionam outros usuários pelo character “@”).
+       dos tweets e adicionar o nome desses usuários a coluna “mentioned_person”. Para a coluna “mentioned_person_count”, 
+       Adicione o número de usuários mencionados (é possível identificar tweets que mencionam outros usuários pelo character “@”).
 
        - Mensões filtradas sem problemas
     
   [Com Problemas]
 b) Correção das ordenações
     
-    - Não consegui rodar as ordenações por conta de problemas de localização de diretórios que não consegui resolve. Alem de que, 
-      o grupo não implementou os algoritimos de ordenação, encotrei apenas 3 algoritimos focados em utilizar as estruturas de dados,
-      de forma semelhate ao que outro grupo tinha feito.
+    - Não consegui rodar as ordenações por conta de problemas de localização de diretórios que não consegui resolver. Além de que, 
+      o grupo não implementou os algoritmos de ordenação, encontrei apenas 3 algoritmos focados em utilizar as estruturas de dados,
+      de forma semelhante ao que outro grupo tinha feito.
    
 3- Aspectos de qualidade do código (20%)
 
@@ -48,7 +48,7 @@ a) Modularização
   [Com problemas]
 b) Algoritmos de ordenação
    
-   - Como foi mencionado, o grupo não implementou os algoritimos de ordenação solicitados
+   - Como foi mencionado, o grupo não implementou os algoritmos de ordenação solicitados
 
 [Com Problemas]
 4- Utilização das estruturas de Dados
@@ -61,8 +61,7 @@ b) Algoritmos de ordenação
      - ArrayList
      - HashMap
    
-   Obs: Como já foi mencionado o grupo aparentemte entendeu errado objetivo da segunda etapa do projeto
-        e implementou três algoritimos de ordenação que utilizam as estruturas de dados,ao invez de melhorar o 
+   Obs: Como já foi mencionado o grupo aparentemente entendeu errado objetivo da segunda etapa do projeto
+        e implementou três algoritmos de ordenação que utilizam as estruturas de dados,ao invés de melhorar o 
         projeto como um todo utilizando as estruturas de dados.
-
 
